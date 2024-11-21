@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\illum\\source\\repos\\Lab2B\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{64FA5A80-70B3-49C7-940D-C08DBCF0821C}|Lab2B\\Lab2B.csproj|c:\\users\\illum\\source\\repos\\lab2b\\lab2b\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64FA5A80-70B3-49C7-940D-C08DBCF0821C}|Lab2B\\Lab2B.csproj|solutionrelative:lab2b\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64FA5A80-70B3-49C7-940D-C08DBCF0821C}|Lab2B\\Lab2B.csproj|c:\\users\\illum\\source\\repos\\lab2b\\lab2b\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64FA5A80-70B3-49C7-940D-C08DBCF0821C}|Lab2B\\Lab2B.csproj|solutionrelative:lab2b\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64FA5A80-70B3-49C7-940D-C08DBCF0821C}|Lab2B\\Lab2B.csproj|c:\\users\\illum\\source\\repos\\lab2b\\lab2b\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64FA5A80-70B3-49C7-940D-C08DBCF0821C}|Lab2B\\Lab2B.csproj|solutionrelative:lab2b\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\illum\\source\\repos\\Lab2B\\Lab2B\\MainForm.cs",
+              "RelativeDocumentMoniker": "Lab2B\\MainForm.cs",
+              "ToolTip": "C:\\Users\\illum\\source\\repos\\Lab2B\\Lab2B\\MainForm.cs",
+              "RelativeToolTip": "Lab2B\\MainForm.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAAwGAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T15:04:46.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\illum\\source\\repos\\Lab2B\\Lab2B\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "Lab2B\\MainForm.Designer.cs",
+              "ToolTip": "C:\\Users\\illum\\source\\repos\\Lab2B\\Lab2B\\MainForm.Designer.cs",
+              "RelativeToolTip": "Lab2B\\MainForm.Designer.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAArwCYAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T15:01:50.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\illum\\source\\repos\\Lab2B\\Lab2B\\MainForm.cs",
+              "RelativeDocumentMoniker": "Lab2B\\MainForm.cs",
+              "ToolTip": "C:\\Users\\illum\\source\\repos\\Lab2B\\Lab2B\\MainForm.cs [Design]",
+              "RelativeToolTip": "Lab2B\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T15:01:15.014Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+C:\Users\illum\source\repos\lab1\lab1\bin\Debug\lab1.exe.config
+C:\Users\illum\source\repos\lab1\lab1\bin\Debug\lab1.exe
+C:\Users\illum\source\repos\lab1\lab1\bin\Debug\lab1.pdb
+C:\Users\illum\source\repos\lab1\lab1\obj\Debug\lab1.csproj.AssemblyReference.cache
+C:\Users\illum\source\repos\lab1\lab1\obj\Debug\lab1.csproj.CoreCompileInputs.cache
+C:\Users\illum\source\repos\lab1\lab1\obj\Debug\lab1.exe
+C:\Users\illum\source\repos\lab1\lab1\obj\Debug\lab1.pdb

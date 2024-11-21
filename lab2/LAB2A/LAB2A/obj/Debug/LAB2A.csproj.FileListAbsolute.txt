@@ -1,0 +1,7 @@
+C:\Users\illum\source\repos\LAB2A\LAB2A\obj\Debug\LAB2A.csproj.AssemblyReference.cache
+C:\Users\illum\source\repos\LAB2A\LAB2A\obj\Debug\LAB2A.csproj.CoreCompileInputs.cache
+C:\Users\illum\source\repos\LAB2A\LAB2A\bin\Debug\LAB2A.exe.config
+C:\Users\illum\source\repos\LAB2A\LAB2A\bin\Debug\LAB2A.exe
+C:\Users\illum\source\repos\LAB2A\LAB2A\bin\Debug\LAB2A.pdb
+C:\Users\illum\source\repos\LAB2A\LAB2A\obj\Debug\LAB2A.exe
+C:\Users\illum\source\repos\LAB2A\LAB2A\obj\Debug\LAB2A.pdb

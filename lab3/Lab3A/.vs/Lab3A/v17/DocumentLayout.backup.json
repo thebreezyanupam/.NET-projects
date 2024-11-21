@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\Lab3A\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B63F7FD-1FF0-4F81-8614-2D8EF93D0606}|Lab3A\\Lab3A.csproj|D:\\C#\\Lab3A\\Lab3A\\IEncryptable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B63F7FD-1FF0-4F81-8614-2D8EF93D0606}|Lab3A\\Lab3A.csproj|solutionrelative:Lab3A\\IEncryptable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B63F7FD-1FF0-4F81-8614-2D8EF93D0606}|Lab3A\\Lab3A.csproj|d:\\c#\\lab3a\\lab3a\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B63F7FD-1FF0-4F81-8614-2D8EF93D0606}|Lab3A\\Lab3A.csproj|solutionrelative:lab3a\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B63F7FD-1FF0-4F81-8614-2D8EF93D0606}|Lab3A\\Lab3A.csproj|D:\\C#\\Lab3A\\Lab3A\\Movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B63F7FD-1FF0-4F81-8614-2D8EF93D0606}|Lab3A\\Lab3A.csproj|solutionrelative:Lab3A\\Movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B63F7FD-1FF0-4F81-8614-2D8EF93D0606}|Lab3A\\Lab3A.csproj|D:\\C#\\Lab3A\\Lab3A\\Song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B63F7FD-1FF0-4F81-8614-2D8EF93D0606}|Lab3A\\Lab3A.csproj|solutionrelative:Lab3A\\Song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B63F7FD-1FF0-4F81-8614-2D8EF93D0606}|Lab3A\\Lab3A.csproj|D:\\C#\\Lab3A\\Lab3A\\Media.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B63F7FD-1FF0-4F81-8614-2D8EF93D0606}|Lab3A\\Lab3A.csproj|solutionrelative:Lab3A\\Media.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B63F7FD-1FF0-4F81-8614-2D8EF93D0606}|Lab3A\\Lab3A.csproj|D:\\C#\\Lab3A\\Lab3A\\ISearchable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B63F7FD-1FF0-4F81-8614-2D8EF93D0606}|Lab3A\\Lab3A.csproj|solutionrelative:Lab3A\\ISearchable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B63F7FD-1FF0-4F81-8614-2D8EF93D0606}|Lab3A\\Lab3A.csproj|D:\\C#\\Lab3A\\Lab3A\\Book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B63F7FD-1FF0-4F81-8614-2D8EF93D0606}|Lab3A\\Lab3A.csproj|solutionrelative:Lab3A\\Book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "D:\\C#\\Lab3A\\Lab3A\\Movie.cs",
+              "RelativeDocumentMoniker": "Lab3A\\Movie.cs",
+              "ToolTip": "D:\\C#\\Lab3A\\Lab3A\\Movie.cs",
+              "RelativeToolTip": "Lab3A\\Movie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T01:16:23.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Song.cs",
+              "DocumentMoniker": "D:\\C#\\Lab3A\\Lab3A\\Song.cs",
+              "RelativeDocumentMoniker": "Lab3A\\Song.cs",
+              "ToolTip": "D:\\C#\\Lab3A\\Lab3A\\Song.cs",
+              "RelativeToolTip": "Lab3A\\Song.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T01:16:15.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Media.cs",
+              "DocumentMoniker": "D:\\C#\\Lab3A\\Lab3A\\Media.cs",
+              "RelativeDocumentMoniker": "Lab3A\\Media.cs",
+              "ToolTip": "D:\\C#\\Lab3A\\Lab3A\\Media.cs",
+              "RelativeToolTip": "Lab3A\\Media.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T01:15:38.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ISearchable.cs",
+              "DocumentMoniker": "D:\\C#\\Lab3A\\Lab3A\\ISearchable.cs",
+              "RelativeDocumentMoniker": "Lab3A\\ISearchable.cs",
+              "ToolTip": "D:\\C#\\Lab3A\\Lab3A\\ISearchable.cs",
+              "RelativeToolTip": "Lab3A\\ISearchable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T01:15:33.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IEncryptable.cs",
+              "DocumentMoniker": "D:\\C#\\Lab3A\\Lab3A\\IEncryptable.cs",
+              "RelativeDocumentMoniker": "Lab3A\\IEncryptable.cs",
+              "ToolTip": "D:\\C#\\Lab3A\\Lab3A\\IEncryptable.cs",
+              "RelativeToolTip": "Lab3A\\IEncryptable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T01:15:26.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\C#\\Lab3A\\Lab3A\\Book.cs",
+              "RelativeDocumentMoniker": "Lab3A\\Book.cs",
+              "ToolTip": "D:\\C#\\Lab3A\\Lab3A\\Book.cs",
+              "RelativeToolTip": "Lab3A\\Book.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwC4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T01:12:04.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\Lab3A\\Lab3A\\Program.cs",
+              "RelativeDocumentMoniker": "Lab3A\\Program.cs",
+              "ToolTip": "D:\\C#\\Lab3A\\Lab3A\\Program.cs",
+              "RelativeToolTip": "Lab3A\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T00:50:25.432Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

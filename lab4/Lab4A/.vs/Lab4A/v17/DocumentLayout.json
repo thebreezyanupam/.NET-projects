@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\Lab4A\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A99ADE20-BA75-455A-9A8D-2E4845C550AF}|Lab4B\\Lab4B.csproj|D:\\C#\\Lab4A\\lab4b\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A99ADE20-BA75-455A-9A8D-2E4845C550AF}|Lab4B\\Lab4B.csproj|solutionrelative:lab4b\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A99ADE20-BA75-455A-9A8D-2E4845C550AF}|Lab4B\\Lab4B.csproj|d:\\c#\\lab4a\\lab4b\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A99ADE20-BA75-455A-9A8D-2E4845C550AF}|Lab4B\\Lab4B.csproj|solutionrelative:lab4b\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A99ADE20-BA75-455A-9A8D-2E4845C550AF}|Lab4B\\Lab4B.csproj|D:\\C#\\Lab4A\\lab4b\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A99ADE20-BA75-455A-9A8D-2E4845C550AF}|Lab4B\\Lab4B.csproj|solutionrelative:lab4b\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF9E004-D2F8-48A5-BABB-0FBC86889041}|Lab4A\\Lab4A.csproj|D:\\C#\\Lab4A\\Lab4A\\Employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DF9E004-D2F8-48A5-BABB-0FBC86889041}|Lab4A\\Lab4A.csproj|solutionrelative:Lab4A\\Employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF9E004-D2F8-48A5-BABB-0FBC86889041}|Lab4A\\Lab4A.csproj|D:\\C#\\Lab4A\\Lab4A\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DF9E004-D2F8-48A5-BABB-0FBC86889041}|Lab4A\\Lab4A.csproj|solutionrelative:Lab4A\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\C#\\Lab4A\\Lab4B\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Lab4B\\Form1.Designer.cs",
+              "ToolTip": "D:\\C#\\Lab4A\\Lab4B\\Form1.Designer.cs",
+              "RelativeToolTip": "Lab4B\\Form1.Designer.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T14:44:39.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\C#\\Lab4A\\Lab4B\\Form1.cs",
+              "RelativeDocumentMoniker": "Lab4B\\Form1.cs",
+              "ToolTip": "D:\\C#\\Lab4A\\Lab4B\\Form1.cs [Design]",
+              "RelativeToolTip": "Lab4B\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T14:20:07.942Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\C#\\Lab4A\\Lab4B\\Form1.cs",
+              "RelativeDocumentMoniker": "Lab4B\\Form1.cs",
+              "ToolTip": "D:\\C#\\Lab4A\\Lab4B\\Form1.cs",
+              "RelativeToolTip": "Lab4B\\Form1.cs",
+              "ViewState": "AgIAAKIAAAAAAAAAAAAowLEAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T14:25:49.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\C#\\Lab4A\\Lab4A\\Employee.cs",
+              "RelativeDocumentMoniker": "Lab4A\\Employee.cs",
+              "ToolTip": "D:\\C#\\Lab4A\\Lab4A\\Employee.cs",
+              "RelativeToolTip": "Lab4A\\Employee.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAwwA4AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T13:36:14.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\Lab4A\\Lab4A\\Program.cs",
+              "RelativeDocumentMoniker": "Lab4A\\Program.cs",
+              "ToolTip": "D:\\C#\\Lab4A\\Lab4A\\Program.cs",
+              "RelativeToolTip": "Lab4A\\Program.cs",
+              "ViewState": "AgIAAIAAAAAAAAAAAAAgwHAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T13:34:00.181Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
